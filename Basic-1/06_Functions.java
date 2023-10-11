@@ -1,4 +1,4 @@
-class 06_Function{
+class Function{
     // public static int sum(int a, int b){   //parameter or formal value
     //     int c = a+b;
     //     System.out.println(c);
@@ -64,7 +64,7 @@ class 06_Function{
         // int a=4;
         // fact(a);
 
-//Binomial coefficient
+//Binomial coefficient:-   formula nCr= n!/r!.(n-r)!
 
         // int n = 4;
         // int r = 2;
